@@ -12,7 +12,7 @@
 	<artifactId>aplicacionWeb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>aplicacionWeb</name>
-	<description>aplicacionWebEstudio</description>
+	<description>Aplicacion Web de Estudio</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
